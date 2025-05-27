@@ -55,5 +55,4 @@ export default function VideosPage() {
       </div>
     </div>
   );
-} 
-//Oes, este es un componente de página en Next.js que muestra una lista de videos con un buscador. Utiliza el estado local para manejar el término de búsqueda y filtra los videos según lo que el usuario escribe. Cada video se muestra como una tarjeta utilizando el componente `VideoCard`. Si no hay videos que coincidan con la búsqueda, se muestra un mensaje indicando que no se encontraron resultados.
+}
