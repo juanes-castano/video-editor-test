@@ -113,7 +113,22 @@ const CustomVideoPlayer = ({ clip, src, onLoadedMetadata }: Props) => {
 
 ## 📷 App Screenshots
 
-> You can add real screenshots of your app here to showcase the gallery, clip editor, and player.
+Below you will see the web application interface.
+![image](https://github.com/user-attachments/assets/20ead4b9-4838-4d0a-8932-0278d368cca4)
+
+If you select the first video (or any of the three), you'll be taken to another page where you can watch the playback of that video. As you can see below:
+
+![image](https://github.com/user-attachments/assets/c329dfad-5eff-4da8-89ea-bb70aad96b7a)
+
+Also, below the video you can see a menu that allows you to add a new clip from the original video, where you will indicate the second where it will start and the second where it will end.
+
+![image](https://github.com/user-attachments/assets/1d3d8845-f3c6-4e0c-ac2e-91d0995c7974)
+
+To give an example, the exercise was performed using the clip name as "clip 1" and selecting it to start at second 10 and end at second 15, and you can see how a new clip with those characteristics is created below the original.
+
+![image](https://github.com/user-attachments/assets/4225f8d7-3850-4e20-a125-76c2a3b9adf4)
+
+
 
 ---
 
@@ -143,7 +158,7 @@ const CustomVideoPlayer = ({ clip, src, onLoadedMetadata }: Props) => {
 
 ## 📄 License
 
-MIT
+N/A
 
 ---
 
